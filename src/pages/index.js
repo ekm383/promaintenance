@@ -12,7 +12,6 @@ import { FaArrowCircleRight } from "react-icons/fa"
 import Background from "../components/background"
 import ServiceColumn from "../components/serviceColumn"
 import Gallery from "../components/gallery"
-import ServiceRow from "../components/serviceRow"
 import Contact from "../components/Contact"
 
 const IndexPage = () => (
@@ -71,6 +70,10 @@ const IndexPage = () => (
           <ServiceColumn
             service="Strip and Wax"
             description="Remove layers of old finishing, damage, and wax. Renew your flooring with a brand new finish."
+          />
+          <ServiceColumn
+            service="Pressure Washing"
+            description="Remove loose paint, mold, grime, dust, mud, chewing gum and dirt from surfaces."
           />
         </Column>
         <Column>

@@ -1,6 +1,6 @@
 import React, { Component } from "react"
-import NavBarHeader from "./NavBarHeader"
-import NavBarLinks from "./NavBarLinks"
+// import NavBarHeader from "./NavBarHeader"
+// import NavBarLinks from "./NavBarLinks"
 import styled from "styled-components"
 
 export default class NavBar extends Component {
